@@ -2,11 +2,11 @@
   "name": "projeto-chefao-xp40",
   "version": "1.0.0",
   "description": "Desafio Chefão da Gama Academy #40",
-  "main": "index.js",
+  "main": "api/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/app.js",
-    "dev": "nodemon src/app.js"
+    "start": "node api/index.js",
+    "dev": "nodemon api/index.js"
   },
   "repository": {
     "type": "git",
