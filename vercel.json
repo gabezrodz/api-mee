@@ -1,15 +1,16 @@
 {
   "version": 2,
+  "public": true,
   "builds": [
     {
-      "src": "./src/app.js",
+      "src": "src/app.js",
       "use": "@vercel/node"
     }
   ],
   "routes": [
     {
-      "src": "./src/routes/index.js",
-      "dest": "./src/app.js"
+      "src": "src/routes/index.js",
+      "dest": "src/app.js"
     }
   ]
 }
