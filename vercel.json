@@ -1,4 +1,5 @@
 {
+  "name": "mee-api-vercel",
   "version": 2,
   "public": true,
   "builds": [
@@ -9,7 +10,7 @@
   ],
   "routes": [
     {
-      "src": "src/routes/index.js",
+      "src": "/.(*)",
       "dest": "src/app.js"
     }
   ]
