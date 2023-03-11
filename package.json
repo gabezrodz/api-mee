@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olirodrigues/projeto-chefao-xp40.git"
+    "url": "git+https://github.com/gabezrodz/api-mee.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olirodrigues/projeto-chefao-xp40/issues"
+    "url": "https://github.com/gabezrodz/api-mee/issues"
   },
-  "homepage": "https://github.com/olirodrigues/projeto-chefao-xp40#readme",
+  "homepage": "https://github.com/gabezrodz/api-mee#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.3",
